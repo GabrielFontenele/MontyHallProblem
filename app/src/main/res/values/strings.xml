@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Monty Hall Problem</string>
+    <string-array name="numero_de_j">
+        <item>10</item>
+        <item>100</item>
+        <item>1000</item>
+    </string-array>
+</resources>
