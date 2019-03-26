@@ -13,10 +13,10 @@ import java.util.Random;
 
 public class MainActivity extends AppCompatActivity {
     String[] portas = {"1","2","3"};
-    String portaP = "";
-    String portaE = "";
-    String portaA = "";
-    String portaF = "";
+    String portaP = ""; // premio
+    String portaE = ""; // escolhida
+    String portaA = ""; // aberta
+    String portaF = ""; // final
     String g = "";
     Random r = new Random();
     Button button;
